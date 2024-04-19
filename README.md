@@ -96,15 +96,6 @@ example.mainloop()
 
  _OK_  Nice
 
-<style>
-
-body {
-    font-size: 26px;
-    font-family: "Gill Sans Extrabold", sans-serif;
-}
-
-
- </style>
 
  <br>
 
