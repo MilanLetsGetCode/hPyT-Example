@@ -8,10 +8,10 @@ Code, source
 <summary>🧾 Table of Content</summary>
 <br>
 
-- [📚 Supported Libraries](#📚-supported-libraries)
-- [📦 Installing](#📦-installing)
-- [🌈 Rainbow TitleBar](#🌈-rainbow-titlebar)
-- [🔛 /Hide or Unhide titlebar](#🔛-hide-or-unhide-titlebar)
+- [📚 Supported Libraries](#📚supported-libraries)
+- [📦 Installing](#📦installing)
+- [🌈 Rainbow TitleBar](#🌈rainbow-titlebar)
+- [🔛 /Hide or Unhide titlebar](#🔛hide-or-unhide-titlebar)
 - [Hide Maximizes and minimizes](#hide-maximizes-and-minimizes)
 </details>
 
@@ -80,22 +80,21 @@ def example():# ---- Functions/def, !dont copy
 example = CTk()
 
 rainbow_titlebar_bar.start(example, interval=value/int)
-
-example.mainloop() # <- code or objective
+# <- code or objective
+# you hPyT
+example.mainloop() 
 ```
 
 <h3>Window Example </h3>
 
 ![](assets/rainbow_titlebar.gif)
 
-`Its look` *so good * : ) <br>
+*`Its look` so good* : ) <br>
 *`interval` is the time in milliseconds in which the color would change*
 
 <h4>
 
  _OK_  Nice
-
- </h4>
 
 <style>
 
